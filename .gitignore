@@ -1,0 +1,4 @@
+__pycache__/
+.ruff_cache/
+data/
+output/npi_registry_houston_area.xlsx
